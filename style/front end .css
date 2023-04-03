@@ -1,0 +1,171 @@
+body{
+    background-color:rgb(0, 0, 0);
+    color :white;
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:50px;
+    text-align:center ;
+    color :white;
+}
+#daddiv{
+    text-align: center;
+    margin-left:auto; margin-right: auto;
+    line-height: 30px;
+}
+.daddiv{
+    margin-top: 100px;
+}
+
+.login{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight:900;
+    text-decoration: none;
+    background-color:blue;
+    width: 100px; height: 40px;
+    margin-top:30px; margin-left:auto; margin-right: 50px;
+    border-radius:0.8em;
+    margin-bottom: 20px;
+    padding-top: 0.4em;
+    padding-bottom: 0.1em;
+    display: inline-block;
+}
+
+.login:hover{
+    background-color: gray;
+}
+
+.signup{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight:900;
+    text-decoration: none;
+    background-color:blue;
+    width: 100px; height: 40px;
+    margin-top:30px; margin-left:auto; margin-right: 50px;
+    border-radius: 0.8em;
+    margin-bottom: 20px;
+    padding-top: 0.4em;
+    padding-bottom: 0.1em;
+    display: inline-block;
+
+}
+
+.signup:hover{
+    background-color: gray;
+}
+
+.skip{
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-weight:1000;
+    text-decoration: none;
+    width: 70px; height: 40px;
+    background-color:rgb(111, 111, 241);
+    margin-top:30px; margin-left:auto; margin-right: auto;
+    border-radius: 0.8em;
+    margin-bottom: 20px;
+     padding-top: 0.4em;
+    padding-bottom: 0.1em; 
+    padding-right: 12px ; padding-left: 12px; 
+    display: inline-block;
+ 
+
+}
+.skip:hover{
+    background-color: blue;
+     color: white;
+}
+
+
+
+@media screen and (max-width:400px) {
+
+    body{
+        background-color:rgb(0, 0, 0);
+        color :white;
+    }
+
+    p{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size:50px;
+        text-align:center ;
+        color :white;
+    }
+    #daddiv{
+        text-align: center;
+        margin-left:auto; margin-right: auto;
+        line-height: 15px;
+    }
+    .daddiv{
+        margin-top: 70px;
+    }
+
+    .login{
+        color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20px;
+        font-weight:900;
+        text-decoration: none;
+        background-color:blue;
+        width: 100px; height: 32px;
+        margin-top:30px; margin-left:auto; margin-right: auto;
+        border-radius:0.8em;
+        margin-bottom: 20px;
+        padding-top: 0.8em;
+        padding-bottom: em;
+        display: block;
+    }
+    
+    .login:hover{
+        background-color: gray;
+    }
+
+    .signup{
+        color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20px;
+        font-weight:900;
+        text-decoration: none;
+        background-color:blue;
+        width: 100px; height: 32px;
+        margin-top:30px; margin-left:auto; margin-right: auto;
+        border-radius:0.8em;
+        margin-bottom: 20px;
+        padding-top: 0.8em;
+        padding-bottom: em;
+        display: block;
+    }
+    .signup:hover{
+        background-color: gray;
+
+    }
+
+    .skip{
+        color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20px;
+        font-weight:900;
+        text-decoration: none;
+        background-color:rgb(111, 111, 241);
+        width: 75px; height: 32px;
+        margin-top:30px; margin-left:auto; margin-right: auto;
+        border-radius:0.8em;
+        margin-bottom: 20px;
+        padding-top: 0.8em;
+        padding-bottom: em;
+        display: block;
+    }
+
+    .skip:hover{
+        background-color: blue;
+         color: white;
+    }
+    
+}
+
+

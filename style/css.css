@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+.welcom{
+    font-size:70px; font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: -40px;
+    line-height: 0.5em;
+    color: rgba(255, 255, 255, 0.712);
+}
+.audio{
+
+    height: 20px; width: 450px;
+        
+}
+#audio{
+    background-color:rgb(218, 211, 211);
+    color: black;
+    width: 600px; height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top:3px;
+    line-height: 0.25;
+    border-radius: 5em;
+    text-align: center;
+    font-size: 40px;
+}
+.form{
+    background-color: rgb(216, 210, 210); color: black;
+    font-size: 40px;
+    line-height: 0.100px;
+    padding-top:1px ; padding-bottom: 10px; 
+    margin-top: 50px; 
+    margin-right: auto; 
+    margin-left: auto; 
+    text-align: center;
+    width: 600px; height: 100px;
+    border-radius: 5em;
+}
+#datetime{
+    background-color: rgb(117, 114, 114);
+    border-style: unset;
+    width: 300px;
+}
